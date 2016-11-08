@@ -26,7 +26,7 @@ namespace Processa_Pedidos
 
         public WorkerRole()
         {
-            var connectionString = "DefaultEndpointsProtocol=https;AccountName=trabcomputacaonuvem;AccountKey=BSG948CYnFDruuuFlUws6rNGI4eYubMShV7AszlYRC/JWQkSNoY1wGsWfqICqnlgv7KHj8W82VkdDi0H+d38+w==";
+            var connectionString = "UseDevelopmentStorage=true";
 
             CloudStorageAccount cloudStorageAccount;
 
