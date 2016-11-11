@@ -22,7 +22,7 @@ namespace Api.Controllers
 
         static ValuesController()
         {
-            var connectionString = "UseDevelopmentStorage=true";
+            var connectionString = "DefaultEndpointsProtocol=https;AccountName=trabalhocomputacaonuvem;AccountKey=YNmHYnn5Wl0MzKJUVoKvn98KtkFhIcTYGPNS4TZEsOfPvMKuzl1OV65bv3FXxdRH2/hNluFNxONcUkBUlNnePw==";
 
             CloudStorageAccount cloudStorageAccount;
 
